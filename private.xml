@@ -2,6 +2,6 @@
 <item>
     <version>1.0.0.1</version>
     <url>https://github.com/boolinux/POS/raw/main/Update.zip</url>
-    <changelog>https://laptrinhvb.net</changelog>
+    <changelog>https://raw.githubusercontent.com/boolinux/POS/main/readme.md</changelog>
     <mandatory>true</mandatory>
 </item>
