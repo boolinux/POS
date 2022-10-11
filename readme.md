@@ -1,3 +1,6 @@
++ Release 1.0.0.1 (11/10/2022)
+  - Chặn trả hàng vượt quá 3 ngày
+  - Chỉnh sửa ngày giờ tiêu chuẩn cho bán hàng
 + Release 1.0.0.0 (11/10/2022)
   - Thêm AutoUpdater
   - Chỉnh sửa cho phép ko cần RunAsAdmin
