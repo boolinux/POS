@@ -1,3 +1,7 @@
++ Release 1.0.0.0 (11/10/2022)
+  - Thêm AutoUpdater
+  - Chỉnh sửa cho phép ko cần RunAsAdmin
+  - Chặn NCC trùng trên hệ thống
 + Update 10/10/2022
   - Chỉnh sửa các tính năng chính
   - Chỉnh sửa lại cho nhà cung cấp
