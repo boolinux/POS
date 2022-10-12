@@ -1,3 +1,7 @@
++ Release 1.0.0.2 (13/10/2022)
+  - Chỉnh sửa chờ tải dữ liệu, cân bằng tài nguyên
+  - Tinh chỉnh ngày giờ cố định
+  - Thay đổi HTTP Request cho sự ổn định cao
 + Release 1.0.0.1 (11/10/2022)
   - Chặn trả hàng vượt quá 3 ngày
   - Chỉnh sửa ngày giờ tiêu chuẩn cho bán hàng
