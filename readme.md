@@ -1,3 +1,7 @@
++ Release 1.0.0.3 (16/10/2022)
+  - Chỉnh sửa Format ngày giờ phù hợp
+  - Thêm report theo thời gian
+  - giờ đây có thể biết chính xác thời gian xuất nhập
 + Release 1.0.0.2 (13/10/2022)
   - Chỉnh sửa chờ tải dữ liệu, cân bằng tài nguyên
   - Tinh chỉnh ngày giờ cố định
