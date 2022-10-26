@@ -1,3 +1,7 @@
++ Release 1.0.0.4 (26/10/2022)
+  - Chỉnh sửa report by day
+  - Thêm xem chi tiết thông tin sản phẩm
+  - Chỉnh sửa giá bán, giá nhập chỉ cho nhập số
 + Release 1.0.0.3 (16/10/2022)
   - Chỉnh sửa Format ngày giờ phù hợp
   - Thêm report theo thời gian
