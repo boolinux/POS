@@ -1,3 +1,6 @@
++ Release 1.0.0.5 (28/10/2022)
+  - Tối ưu hóa phần mềm
+  - Sửa các lỗi tồn đọng
 + Release 1.0.0.4 (26/10/2022)
   - Chỉnh sửa report by day
   - Thêm xem chi tiết thông tin sản phẩm
