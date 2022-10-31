@@ -1,3 +1,7 @@
++ Release 1.0.0.6 (31/10/2022)
+  - Thêm đối tác GHTK
+  - Tinh chỉnh API GHN
+  - Sửa lỗi nhập SKU xảy ra lỗi khi bán hàng
 + Release 1.0.0.5 (28/10/2022)
   - Tối ưu hóa phần mềm
   - Sửa các lỗi tồn đọng
