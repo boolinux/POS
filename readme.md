@@ -1,3 +1,7 @@
++ Release 1.0.0.7 (31/10/2022)
+  - Sửa lỗi đối tác GHTK
+  - Thêm hủy đơn hàng GHTK
+  - Thay đổi config file
 + Release 1.0.0.6 (31/10/2022)
   - Thêm đối tác GHTK
   - Tinh chỉnh API GHN
