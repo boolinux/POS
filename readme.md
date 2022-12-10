@@ -1,3 +1,7 @@
++ Release 1.0.0.8 (10/12/2022)
+  - Khắc phục vấn đề khi đổ danh sách giao dịch
+  - Nhập Hàng : nay khi nhập hàng, SKU tự tạo nếu trùng với SKU tồn hệ thống sẽ tự động + số lượng thêm cho SKU đã nằm trong hệ thống
+  - Làm lại tải danh sách Lịch Sử Giao Dịch
 + Release 1.0.0.7 (31/10/2022)
   - Sửa lỗi đối tác GHTK
   - Thêm hủy đơn hàng GHTK
