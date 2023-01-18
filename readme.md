@@ -1,3 +1,10 @@
++ Release 1.0.0.9 (18/01/2023)
+  - Xóa bỏ các chức năng đã cũ
+  - Xóa bỏ chi tiết giao dịch
+  - Tích hợp chi tiết giao dịch ngay trên lịch sử giao dịch
+  - Xóa bỏ Module Khách Hàng Cũ
+  - New Module Khách hàng nay chỉ cho quản lý dựa trên số điện thoại tìm kiếm
+  - New Module Khách hàng : cho phép sửa tên khách hàng, xóa khách hàng và reset điểm của khách hàng
 + Release 1.0.0.8 (10/12/2022)
   - Khắc phục vấn đề khi đổ danh sách giao dịch
   - Nhập Hàng : nay khi nhập hàng, SKU tự tạo nếu trùng với SKU tồn hệ thống sẽ tự động + số lượng thêm cho SKU đã nằm trong hệ thống
