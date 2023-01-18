@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <item>
-    <version>1.0.0.8</version>
+    <version>1.0.0.9</version>
     <url>https://github.com/boolinux/POS/raw/main/Update.zip</url>
     <changelog>https://raw.githubusercontent.com/boolinux/POS/main/readme.md</changelog>
     <mandatory>true</mandatory>
