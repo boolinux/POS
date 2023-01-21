@@ -1,3 +1,7 @@
++ Release 1.0.1.0 (21/01/2023 - 30 tết)
+  - Tối ưu hóa quy trình bán hàng
+  - Ẩn các thông số không cần thiết
+  - Tối ưu hóa giao diện người dùng nay trực quan hơn
 + Release 1.0.0.9 (18/01/2023)
   - Xóa bỏ các chức năng đã cũ
   - Xóa bỏ chi tiết giao dịch
