@@ -1,3 +1,9 @@
++ Release 1.0.8448.30605 (17/02/2023)
+  - Thay đổi giao diện chính
+  - Rút gọn các chức năng ở phiên bản cũ
+  - Tối ưu hóa truy xuất dữ liệu nay sẽ nhanh hơn
+  - Thay đổi giao diện bán hàng
+  - Thay đổi giao diện Dashboard
 + Release 1.0.1.0 (21/01/2023 - 30 tết)
   - Tối ưu hóa quy trình bán hàng
   - Ẩn các thông số không cần thiết
