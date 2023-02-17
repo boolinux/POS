@@ -1,3 +1,7 @@
++ Release 1.0.2.1 (18/02/2023)
+  - Sửa 1 số lỗi tồn đọng
+  - Sửa lỗi không tạo được bill giao hàng
+  - Thêm tính năng TOP 10 sản phẩm bán chạy
 + Release 1.0.2.0 (17/02/2023)
   - Thay đổi giao diện chính
   - Rút gọn các chức năng ở phiên bản cũ
