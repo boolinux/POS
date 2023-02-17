@@ -1,4 +1,4 @@
-+ Release 1.0.8448.30605 (17/02/2023)
++ Release 1.0.2.0 (17/02/2023)
   - Thay đổi giao diện chính
   - Rút gọn các chức năng ở phiên bản cũ
   - Tối ưu hóa truy xuất dữ liệu nay sẽ nhanh hơn
