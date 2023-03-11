@@ -1,3 +1,6 @@
++ Release 1.0.3.0 (11/03/2023)
+  - Chỉnh sửa UI/UX sang ngôn ngữ chuẩn 
+  - Fix sửa Point bị nhầm sang sửa Nhà Cung Cấp
 + Release 1.0.2.1 (18/02/2023)
   - Sửa 1 số lỗi tồn đọng
   - Sửa lỗi không tạo được bill giao hàng
