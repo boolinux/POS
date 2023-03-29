@@ -1,3 +1,6 @@
++ Release 1.0.3.1 (29/03/2023)
+  - Chỉnh sửa chọn sản phẩm nay trực quan và thao tác dễ hơn
+  - Tối ưu hóa quá trình truy vấn dữ liệu
 + Release 1.0.3.0 (11/03/2023)
   - Chỉnh sửa UI/UX sang ngôn ngữ chuẩn 
   - Fix sửa Point bị nhầm sang sửa Nhà Cung Cấp
